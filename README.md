@@ -218,6 +218,7 @@ plt.plot(x,y3,color="pink")
 plt.legend(['y1','y2','y3'])
 plt.show()
 ```
+![image](https://github.com/user-attachments/assets/8ea463f7-ba6d-40ff-a1f9-23fcefcc3271)
 
 ```
 #Spline chart
